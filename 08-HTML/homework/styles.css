@@ -1,3 +1,11 @@
+body {
+  height: 800px;
+  background-image: url("https://barradeideas.com/wp-content/uploads/2018/11/foodies-adaptada.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
 h1 {
   color: red;
 }
