@@ -1,0 +1,6 @@
+La expresión For es un bucle de repetición, se debe escribir la for, un espacio, abrir y cerrar parentesis, seguido de llaves. 
+Dentro del parentesís se necesitan si o si 3 cosas, declarar una variable (esto es lo que se va a repetir), luego un condicional (true o false), por último la cantidad que se va ir agregando en cada repetición (por ejemplo ++)
+Hay 3 operadores lógicos que son:
+&&: sería como un "Y" ya que compara 2 expresiones, este operador solo devuelve true si las 2 son true, si uno por lo menos es false, devolvera false.
+||: este operador es un "Ó", devuelve true si por lo menos 1 expresión es true, solo devuelve false si son todas false.
+!: es un operador denominado "NOT" ya que devuelve el valor booleano opuesto al que se coloca.
