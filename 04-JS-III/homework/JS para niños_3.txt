@@ -1,0 +1,2 @@
+Los arrays son listas de elementos ordenados, los elementos pueden ser de los tipos de datos, strings, númericos, booleanos, funciones y también otros arrays.
+Se defienen usando var, el nombre del array y luego los corchetes, dentro de estos corchetes van los elementos de la lista.
