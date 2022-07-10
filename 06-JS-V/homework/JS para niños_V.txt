@@ -1,0 +1,2 @@
+Prototype es el modo por el cual los objetos heredan caracteristicas de otros.
+Un constructor de clases es un tipo de función que sirve para crear nuevos objetos de clases, el nombre de estas clases van con mayúsculas.
