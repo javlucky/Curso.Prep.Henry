@@ -1,0 +1,1 @@
+Las callbacks es una función que se pasa por argumento en otra función para ser invocada por la última.
