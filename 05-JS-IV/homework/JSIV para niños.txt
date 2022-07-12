@@ -1,0 +1,15 @@
+Los objetos son contenedores de datos pero a diferencia de un array, estos contienen información
+de una sola cosa. Los objetos se instancian abriendo llaves {}.
+Las propiedades, también llamadas valor (key:value) son las información que se da 
+sobre el objeto, solo puede haber una propiedad con el mismo nombre, se pueden colocar
+la cantidad que uno desee separas en comas, dentro de ellas puede haber cualquier tipo de dato
+strings, números, booleano, arrays, otro objeto, una función, esta última dentro de un objeto
+se las llaman metodos.
+Para realizar una acción varias veces, no podemos usar el bucle for en un objeto, para ello debemos
+usar el for in, esto se coloca poniendo for, luego declarando una variable y agregamos la palabra clave in
+que le dira en que propiedades buscar de ese objeto.
+Bracket notation (notificación de corchetes), como su nombre lo indica se usa para llamar a una propiedad
+dentro del objeto usando corchetes se coloca el nombre del objeto y entre los corchetes con comillas se coloca
+el nombre de la propiedad que queremos acceder a su valor. Con el Dot notation es similar, solo que en vez de
+usar corchetes se pones un punto entre el objeto y la propiedad a la que queremos llamar. la ventaja de usar dot 
+notation es que es más fácil de escribir, además los corchetes se usan más para llamar variables.
