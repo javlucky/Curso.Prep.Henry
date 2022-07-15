@@ -113,7 +113,8 @@ function buscoInterseccion(arreglo1, arreglo2){
   //Si no tienen elementos en común, retornar un arreglo vacío.
   //Aclaración: los arreglos no necesariamente tienen la misma longitud
   //Escribe tu código aquí
-
+  var comun = arreglo1.filter(x => arreglo2.indexOf(x) !== -1);
+    return comun;
 }
 
 
